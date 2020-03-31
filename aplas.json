@@ -18,7 +18,68 @@
       "end_of_life": "21/12/19",
       "months_to_renew_support": "36",
       "sme_email": "Natasha.Gossling@memento.net.au",
-      "investment_number": "413"
+      "investment_number": "413",
+      "integrations": [
+        {
+          "id": "int-104",
+          "name": "INT-104",
+          "categoryId": "0b92058e-25af-4e83-ad26-fe6e6f607f17",
+          "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+          "sourceApplicationId": "best_cloud",
+          "targetApplicationId": "cookley",
+          "logical_server": "B2B",
+          "status_color": "#FF0000",
+          "pattern": "File Delivery",
+          "golive_date": "4/1/17",
+          "sme_name": "Matelda Nuss",
+          "decom_date": "4/6/17",
+          "datacentre": "Dandenong",
+          "department": "App Control",
+          "status": "Decomissioned",
+          "sme_email": "mnussf@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "24/1/16"
+        },
+        {
+          "id": "int-264",
+          "name": "INT-264",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Quisque id justo sit amet sapien dignissim vestibulum.",
+          "sourceApplicationId": "best_cloud",
+          "targetApplicationId": "offshoring_iot",
+          "logical_server": "ONLINE",
+          "status_color": "#00FFFF",
+          "pattern": "Scatter Gather",
+          "golive_date": "15/2/13",
+          "sme_name": "Tonya Oldcroft",
+          "decom_date": "7/5/16",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "ToBeDecom",
+          "sme_email": "toldcrofti@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "8/9/17"
+        },
+        {
+          "id": "int-404",
+          "name": "INT-404",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+          "sourceApplicationId": "best_cloud",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "6/9/15",
+          "sme_name": "Andie MacVanamy",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "amacvanamy5@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "30/11/14"
+        }
+      ]
     }
   ]
 }
