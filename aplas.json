@@ -1,20 +1,24 @@
 {
-  "id": "best_cloud",
-  "name": "Best Cloud",
-  "categoryId": "core",
-  "description": "Centralized multi-state success",
-  "investment_24m": "910",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "181",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "316",
-  "deployment_date": "7/7/06",
-  "end_of_maintenance": "18/4/17",
-  "department": "Engineering",
-  "status": "Decomissioned",
-  "end_of_life": "21/12/19",
-  "months_to_renew_support": "36",
-  "sme_email": "Natasha.Gossling@memento.net.au",
-  "investment_number": "413"
+  "applications": [
+    {
+      "id": "best_cloud",
+      "name": "Best Cloud",
+      "categoryId": "core",
+      "description": "Centralized multi-state success",
+      "investment_24m": "910",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "181",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "316",
+      "deployment_date": "7/7/06",
+      "end_of_maintenance": "18/4/17",
+      "department": "Engineering",
+      "status": "Decomissioned",
+      "end_of_life": "21/12/19",
+      "months_to_renew_support": "36",
+      "sme_email": "Natasha.Gossling@memento.net.au",
+      "investment_number": "413"
+    }
+  ]
 }
